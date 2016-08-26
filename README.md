@@ -1,2 +1,2 @@
 # blackjack
-I was bored so I decided to make blackjack using Java
+I made a simple blackjack game using Java played on the console. Originally programmed on the Eclipse IDE. 
